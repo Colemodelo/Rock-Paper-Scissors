@@ -3,5 +3,6 @@ Rock, Paper, Scissors is a basic game that I have created as part of The Odin Pr
 
 **Live Demo:** https://colemodelo.github.io/Rock-Paper-Scissors/
 
-**Tech used:** HTML, CSS, Javascript**
+**Tech used:** HTML, CSS, Javascript
+
 
